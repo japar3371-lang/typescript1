@@ -1,1 +1,0 @@
-console.log("Saya siap belajar variabel dan tipe data!")
